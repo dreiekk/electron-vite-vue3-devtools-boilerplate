@@ -31,7 +31,7 @@
   },
   "build": {
     "appId": "com.application.id",
-    "productName": "Supercal",
+    "productName": "MyApplication",
     "copyright": "Copyright © 2022 ${author}",
     "mac": {
       "category": "public.app-category.utilities"
